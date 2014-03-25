@@ -104,9 +104,9 @@ def main(argo):
 
 	if starttime != '':
 		if recurse != '':
-			my_scan.time_scan(filepath,recurse)
+			my_scan.time_scan(filepath,starttime,recurse)
 		else:
-			my_scan.time_scan(filepath)
+			my_scan.time_scan(filepath,starttime)
 	else:
 		if recurse != '':
 			my_scan.scan(filepath,recurse)
