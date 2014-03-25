@@ -17,7 +17,7 @@ import os
 import pdb
 from my_config import *
 from my_scan import *
-__DEBUG = 1
+__DEBUG = 0
 def usage():
 	print '''
 ***************************************************
