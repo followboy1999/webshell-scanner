@@ -1,7 +1,7 @@
 webshell-scanner
 ================
 ***************************************************
-*The Web Shell Scanner written by zztzyzjw 2014
+*The Web Shell Scanner written by fb1999 2014
 ***************************************************
 Options:
 -p file_path(Required)
